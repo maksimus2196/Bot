@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище Skype_DataModelContainer" CdmEntityContainer="Skype_DataEntities">
+    <EntitySetMapping Name="Table_Message">
+      <EntityTypeMapping TypeName="Skype_DataModel.Table_Message">
+        <MappingFragment StoreEntitySet="Table_Message">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Message" ColumnName="Message" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Table_Request">
+      <EntityTypeMapping TypeName="Skype_DataModel.Table_Request">
+        <MappingFragment StoreEntitySet="Table_Request">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Request" ColumnName="Request" />
+          <ScalarProperty Name="Index" ColumnName="Index" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

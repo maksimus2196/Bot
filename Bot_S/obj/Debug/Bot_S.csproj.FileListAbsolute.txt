@@ -1,0 +1,11 @@
+C:\Users\Maksim\Documents\Visual Studio 2013\Projects\Bot_S\Bot_S\bin\Debug\Bot_S.exe.config
+C:\Users\Maksim\Documents\Visual Studio 2013\Projects\Bot_S\Bot_S\obj\Debug\Bot_S.csprojResolveAssemblyReference.cache
+C:\Users\Maksim\Documents\Visual Studio 2013\Projects\Bot_S\Bot_S\bin\Debug\Bot_S.exe
+C:\Users\Maksim\Documents\Visual Studio 2013\Projects\Bot_S\Bot_S\bin\Debug\Bot_S.pdb
+C:\Users\Maksim\Documents\Visual Studio 2013\Projects\Bot_S\Bot_S\bin\Debug\EntityFramework.dll
+C:\Users\Maksim\Documents\Visual Studio 2013\Projects\Bot_S\Bot_S\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maksim\Documents\Visual Studio 2013\Projects\Bot_S\Bot_S\bin\Debug\EntityFramework.xml
+C:\Users\Maksim\Documents\Visual Studio 2013\Projects\Bot_S\Bot_S\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maksim\Documents\Visual Studio 2013\Projects\Bot_S\Bot_S\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Maksim\Documents\Visual Studio 2013\Projects\Bot_S\Bot_S\obj\Debug\Bot_S.exe
+C:\Users\Maksim\Documents\Visual Studio 2013\Projects\Bot_S\Bot_S\obj\Debug\Bot_S.pdb

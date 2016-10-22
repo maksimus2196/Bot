@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище Skype_DataModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Table_Message">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Message" Type="text" />
+  </EntityType>
+  <EntityType Name="Table_Request">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Request" Type="varchar" MaxLength="50" />
+    <Property Name="Index" Type="int" />
+  </EntityType>
+  <EntityContainer Name="Хранилище Skype_DataModelContainer">
+    <EntitySet Name="Table_Message" EntityType="Self.Table_Message" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Table_Request" EntityType="Self.Table_Request" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
